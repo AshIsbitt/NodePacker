@@ -16,7 +16,7 @@ A Machine Image is a static, pre-configured operating system, with all the tools
 
 ## Installation and running
 
-To download this repo, please run: `LOREM IPSUM`
+To download this repo, please run: `git clone git@github.com:AshIsbitt/NodePacker.git`
 
 Note that to continue, you may need to edit lines 10, 12 and 13 of `packer.json` to your local SSH key and AWS Subnet. 
 
