@@ -8,7 +8,7 @@
 - Vagrant
 
 
-## What is Packer?
+## What is Packer?
 
 **Packer** is a FOSS (*Free Open Source Software*) tool maintained by the community to be used to create programmed images of machines. This works through a single JSON (Javascript Object Notation) file that tells Packer how to configure itself. The primary purpose of a Packer file is to interact with a cloud service such as **Microsoft Azure**, or **Amazon Web Services**, so that a network engineer or DevOps can create a large number of systems all with the same tools and software installed, mitigating a major cause of "It works on my machine".
 
