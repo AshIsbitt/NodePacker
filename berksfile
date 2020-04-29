@@ -1,2 +1,2 @@
 source 'https://supermarket.chef.io'
-cookbook "node", git: "https://github.com/AshIsbitt/NodeCookbookStarterCode"
+cookbook 'node', git: 'git@github.com:AshIsbitt/NodeCookbookStarterCode.git'
